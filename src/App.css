@@ -21,3 +21,12 @@
   align-items: center;
   justify-content: center;
 }
+
+.body {
+  margin-top: 240px;
+  background-color: red;
+  height: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
